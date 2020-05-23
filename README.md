@@ -1,16 +1,5 @@
-# qrcode
+# QR Scanner and Generator
 
-A new Flutter project.
+This application can generate a qr code fora number or a text and it also display display the information which is hidden in the qr code. It also display the information from bar code too.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+This app is built using flutter and hence is built for cross platform,ie, android as well as iOS.
